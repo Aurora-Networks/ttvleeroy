@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://spicydevs.js.org" target="_blank"> 
+  <a href="https://github.com/Aurora-Networks/ttvleeroy/" target="_blank"> 
     <img src="https://media.discordapp.net/attachments/1229400813919539240/1232929933131644948/Untitled_design.gif?ex=662b3efa&is=6629ed7a&hm=11b704892555c054e178286a7b6b6f10fbb290c3170b3631499b884037734454&=&width=687&height=153" height="80">
   </a>
 </p>
@@ -7,8 +7,8 @@
 <p align="center">Welcome to Nexinus.Cloud - Where Developers Thrive!</p>
 
 <p align="center">
-  <a href="https://github.com/SpicyDevs/spicydevs.github.io/issues">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/SpicyDevs/spicydevs.github.io">
+  <a href="https://github.com/Aurora-Networks/ttvleeroy/issues">
+  <img alt="GitHub issues" src="https://github.com/Aurora-Networks/ttvleeroy/">
   </a>
   <a href="https://github.com/SpicyDevs/spicydevs.github.io/forks">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/SpicyDevs/spicydevs.github.io">
