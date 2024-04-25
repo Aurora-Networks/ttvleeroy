@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">Welcome to SpicyDevs - Where Developers Thrive!</p>
+<p align="center">Welcome to Nexinus.Cloud - Where Developers Thrive!</p>
 
 <p align="center">
   <a href="https://github.com/SpicyDevs/spicydevs.github.io/issues">
@@ -21,22 +21,22 @@
   </a>
 </p>
 
-## About SpicyDevs
+## About Nexinus.Cloud 
 
-SpicyDevs is not just a community; it's a haven for developers, a place to embrace coding, and a launchpad for exciting projects. We believe in fostering a welcoming environment where developers of all levels can connect, collaborate, and grow together. Whether you're a seasoned coder or just starting, there's a place for you in our diverse community.
+Nexinus.Cloud is not just a community; it's a haven for developers, a place to embrace coding, and a launchpad for exciting projects. We believe in fostering a welcoming environment where developers of all levels can connect, collaborate, and grow together. Whether you're a seasoned coder or just starting, there's a place for you in our diverse community.
 
-## 👨‍💻 SpicyDevs Website
+## 👨‍💻 Nexinus.Cloud  Website
 
-Explore more about our community and the projects we've undertaken on our [website](https://spicydevs.js.org/).
+Explore more about our community and the projects we've undertaken on our [website](https://nexinus.cloud).
 
 ## Connect with Us
 
 Join our vibrant community on Discord!
 
-<a href="https://discord.com/invite/2aAdfJHSWR">
-  <img src="https://invidget.switchblade.xyz/2aAdfJHSWR" alt="Discord Server">
+<a href="https://discord.com/invite/kurHfreMaH">
+  <img src="https://invidget.switchblade.xyz/kurHfreMaH" alt="Discord Server">
 </a>
 
 ## License
 
-SpicyDevs is open-source and is licensed under the [MIT License](https://github.com/SpicyDevs/spicydevs.github.io/blob/main/LICENSE.txt).
+Nexinus.Cloud  is open-source and is licensed under the [MIT License](https://github.com/SpicyDevs/spicydevs.github.io/blob/main/LICENSE.txt).
