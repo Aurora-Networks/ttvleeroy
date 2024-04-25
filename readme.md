@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://spicydevs.js.org" target="_blank"> 
-    <img src="https://oyepriyansh.pages.dev/i/sd.png" height="80">
+    <img src="https://media.discordapp.net/attachments/1229400813919539240/1232929933131644948/Untitled_design.gif?ex=662b3efa&is=6629ed7a&hm=11b704892555c054e178286a7b6b6f10fbb290c3170b3631499b884037734454&=&width=687&height=153" height="80">
   </a>
 </p>
 
